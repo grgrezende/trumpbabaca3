@@ -1,10 +1,27 @@
-    body{
+body{
         margin: 0;
-        background-color: darkgray;
+        background-color: rgb(236, 205, 205);
         font-family: "montserrat", "san-serif";
-    }
-    h1,h2{
+}
+
+h1,h2{
         color: fuchsia;
         text-align: center;
         font-weight:800;
-    }
+        
+}
+
+p{
+    color: red;
+    margin-left: 10px;
+}
+
+button {
+    border: solid blue;
+    background-color: white;
+    padding: 20px;
+
+}
+
+            
+            
